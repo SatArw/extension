@@ -10,7 +10,11 @@ Now follow the tutorial for how to add this to you browser
 > sudo apt-get install subversion     
 > svn checkout https://github.com/cmaspi/extension/trunk/captchaDefeator  
 
-Go to your browser, switch on the developer mode in extensions, then add extension by selecting captchaDefeator
+
+1. Go to your browser
+2. switch on the developer mode in extensions
+3. click on the "Load unpacked" button on the top left(Google chrome)
+4. then add extension by selecting captchaDefeator
 
 You can refer 
 ### 1. [Tutorial for brave](https://github.com/cmaspi/extension/blob/main/captchaDefeator/tutorials/brave_tutorial.pdf)
